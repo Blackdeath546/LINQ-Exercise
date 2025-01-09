@@ -1,0 +1,15 @@
+C:\CODING\repos\LINQ-Exercise\LINQ\bin\Debug\net6.0\LINQ.exe
+C:\CODING\repos\LINQ-Exercise\LINQ\bin\Debug\net6.0\LINQ.deps.json
+C:\CODING\repos\LINQ-Exercise\LINQ\bin\Debug\net6.0\LINQ.runtimeconfig.json
+C:\CODING\repos\LINQ-Exercise\LINQ\bin\Debug\net6.0\LINQ.dll
+C:\CODING\repos\LINQ-Exercise\LINQ\bin\Debug\net6.0\LINQ.pdb
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\LINQ.AssemblyInfoInputs.cache
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\LINQ.AssemblyInfo.cs
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\LINQ.csproj.CoreCompileInputs.cache
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\LINQ.sourcelink.json
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\LINQ.dll
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\refint\LINQ.dll
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\LINQ.pdb
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\LINQ.genruntimeconfig.cache
+C:\CODING\repos\LINQ-Exercise\LINQ\obj\Debug\net6.0\ref\LINQ.dll
