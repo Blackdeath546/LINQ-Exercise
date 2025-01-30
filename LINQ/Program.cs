@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        public void Main(string[] args)
+        public static void Main(string[] args)
         {
             var gamesList = new List<string>(){"DbD", "Marvel Rivals", "Apex Legends", "Sons of the Forest", "Darkest Dungeon 2", "Valheim", "Pal World", "Balder's Gate 3", "Liar's Bar"};
 
